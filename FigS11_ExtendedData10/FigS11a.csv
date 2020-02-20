@@ -1,0 +1,25 @@
+Colonies Picked,Plasmid Containing,Fraction_P,Strain,Day
+50,49,0.98,DoubleAnc,0
+50,24,0.48,DoubleAnc,3
+42,18,0.428571429,DoubleAnc,6
+50,6,0.12,DoubleAnc,9
+50,49,0.98,DoubleAnc,0
+50,37,0.74,DoubleAnc,3
+50,16,0.32,DoubleAnc,6
+50,1,0.02,DoubleAnc,9
+50,50,1,DoubleAnc,0
+50,29,0.58,DoubleAnc,3
+30,3,0.1,DoubleAnc,6
+50,1,0.02,DoubleAnc,9
+50,50,1,DoubleEvo28,0
+49,38,0.775510204,DoubleEvo28,3
+50,27,0.54,DoubleEvo28,6
+50,13,0.26,DoubleEvo28,9
+50,50,1,DoubleEvo28,0
+50,38,0.76,DoubleEvo28,3
+50,20,0.4,DoubleEvo28,6
+50,3,0.06,DoubleEvo28,9
+50,50,1,DoubleEvo28,0
+50,30,0.6,DoubleEvo28,3
+50,17,0.34,DoubleEvo28,6
+50,7,0.14,DoubleEvo28,9
